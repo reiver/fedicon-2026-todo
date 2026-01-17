@@ -4,17 +4,17 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 
 ## Location
 
-* [ ] find a **location** for conference
-  * in July or August
-  * needs to be 2 consecutive days
-  * ideally a consecutive Saturday and a Sunday
-  * needs a speaker podium (with microphone)
-  * needs to be able to fit 6 chairs
-  * needs 2 microphones
+* [ ] find a **location** for conference. <mark>(assigned to: CHARLES)</mark>
+  * in July or August.
+  * needs to be 2 consecutive days.
+  * ideally a consecutive Saturday and a Sunday.
+  * needs a speaker podium (with microphone).
+  * needs to be able to fit 6 chairs.
+  * needs 2 microphones.
 
 ## Days
 
-* [ ] decide on days the conference takes place
+* [ ] decide on days the conference takes place. <mark>(assigned to: CHARLES)</mark>
   * dependent on the [location](#location)
 
 ## After-Party
@@ -59,3 +59,17 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 * [ ] Design a retractable vertical banner.
 * [ ] (MAYBE) Find sponsor for retractable vertical banner.
 * [ ] Get retractable vertical banner created.
+
+## Promotion
+
+## Speakers
+
+* [ ] Reach out to 2 (potential) keynote speakers. <mark>(assigned to: CHARLES)</mark>
+* [ ] Reach out to 2 (potential) panel hosts. <mark>(assigned to: CHARLES)</mark>
+* [ ] Reach out to other potential speakers. <mark>(assigned to: CHARLES)</mark>
+* [ ] Put out an open call for speakers. 
+* [ ] Come up with a schedule that can fit the accepted speakers. <mark>(assigned to: CHARLES)</mark>
+  * make sure some speakers are giving non-technical presentations. 
+  * may have to adjust schedule to accomodate speaker schedule constraints.
+* [ ] Post schedule on FediCon website.
+* [ ] Post schedule on Fediverse.
