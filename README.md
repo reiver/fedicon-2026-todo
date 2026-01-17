@@ -26,9 +26,10 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 
 ## Recording
 
-* [ ] find a someone to **record** the conference
-  * dependent on the [days](#days) the conference is taking place on to be chosen
-  * this _could_ be the same people we used for last year's conference
+* [ ] find a someone to **record** the conference.
+  * dependent on the [days](#days) the conference is taking place on to be chosen.
+  * this _could_ be the same people we used for last year's conference.
+* [ ] (MAYBE) Find sponsor for **recording** of the conference.
      
 ## Roles
 
