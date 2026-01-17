@@ -38,3 +38,9 @@ This document is a to-do list for the organizing of **FediCon 2026**.
   * warns the speakers that they are 10 minutes away from the end of their time
   * warns the speakers that they are 2 minutes away from the end of their time
 
+.
+
+* [ ] need someone for **first day** of the conference to **stand at the front-door of the building** and direct them on where to go to get to the conference room.
+* [ ] need someone for **second day** of the conference to **stand at the front-door of the building** and direct them on where to go to get to the conference room.
+
+
