@@ -8,6 +8,9 @@ This document is a to-do list for the organizing of **FediCon 2026**.
   * in July or August
   * needs to be 2 consecutive days
   * ideally a consecutive Saturday and a Sunday
+  * needs a speaker podium (with microphone)
+  * needs to be able to fit 6 chairs
+  * needs 2 microphones
 
 ## Days
 
@@ -48,3 +51,9 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 * [ ] Create new website for FediCon 2026
 * [ ] move previous (FediCon 2025) website to https://fedicon.ca/2025/
 
+## Vertical Banner
+
+* [ ] Find pricing on retractable vertical banner for FediCon 2026.
+* [ ] Design a retractable vertical banner.
+* [ ] (MAYBE) Find sponsor for retractable vertical banner.
+* [ ] Get retractable vertical banner created.
