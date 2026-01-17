@@ -54,6 +54,7 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 ## Vertical Banner
 
 * [ ] Find pricing on retractable vertical banner for FediCon 2026.
+  * must stand on floor (i.e., _not_ be a table-top version)
 * [ ] Design a retractable vertical banner.
 * [ ] (MAYBE) Find sponsor for retractable vertical banner.
 * [ ] Get retractable vertical banner created.
