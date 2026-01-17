@@ -43,4 +43,8 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 * [ ] need someone for **first day** of the conference to **stand at the front-door of the building** and direct them on where to go to get to the conference room.
 * [ ] need someone for **second day** of the conference to **stand at the front-door of the building** and direct them on where to go to get to the conference room.
 
+## Website
+
+* [ ] Create new website for FediCon 2026
+* [ ] move previous (FediCon 2025) website to https://fedicon.ca/2025/
 
