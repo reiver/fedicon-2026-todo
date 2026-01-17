@@ -25,4 +25,16 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 
 * [ ] find a someone to **record** the conference
   * dependent on the [days](#days) the conference is taking place on to be chosen
+  * this _could_ be the same people we used for last year's conference
+     
+## Roles
+
+* [ ] need someone to be a **time flagger** for the **first day** of conference
+  * warns the speakers that they are ½ way through their time
+  * warns the speakers that they are 10 minutes away from the end of their time
+  * warns the speakers that they are 2 minutes away from the end of their time
+* [ ] need someone to be a **time flagger** for the **second day** of conference
+  * warns the speakers that they are ½ way through their time
+  * warns the speakers that they are 10 minutes away from the end of their time
+  * warns the speakers that they are 2 minutes away from the end of their time
 
