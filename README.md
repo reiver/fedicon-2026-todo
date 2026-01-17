@@ -28,7 +28,7 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 
 * [ ] find a someone to **record** the conference.
   * dependent on the [days](#days) the conference is taking place on to be chosen.
-  * this _could_ be the same people we used for last year's conference.
+  * <mark>this _could_ be the same people we used for last year's conference.</mark>
 * [ ] (MAYBE) Find sponsor for **recording** of the conference.
      
 ## Roles
@@ -61,6 +61,9 @@ This document is a to-do list for the organizing of **FediCon 2026**.
 * [ ] Get retractable vertical banner created.
 
 ## Promotion
+
+* [ ] Promote FediCon 2026 on Fediverse
+  * multiple people can do this.
 
 ## Speakers
 
